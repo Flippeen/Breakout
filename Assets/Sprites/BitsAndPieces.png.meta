@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: 5168a560297b0684b95941811ad715fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4774151667580652840
+    second: BitsAndPieces_0
+  - first:
+      213: -2859848849113262892
+    second: BitsAndPieces_1
+  - first:
+      213: 7205598779211487384
+    second: BitsAndPieces_2
+  - first:
+      213: -4476130821429017680
+    second: BitsAndPieces_3
+  - first:
+      213: 5978748312055563040
+    second: BitsAndPieces_4
+  - first:
+      213: 589992445417006422
+    second: BitsAndPieces_5
+  - first:
+      213: -3966067909059139414
+    second: BitsAndPieces_6
+  - first:
+      213: 213232022597693147
+    second: BitsAndPieces_7
+  - first:
+      213: -8711637072308137723
+    second: BitsAndPieces_8
+  - first:
+      213: 6051096894172773762
+    second: BitsAndPieces_9
+  - first:
+      213: -272518062776935027
+    second: BitsAndPieces_10
+  - first:
+      213: 508385687449549858
+    second: BitsAndPieces_11
+  - first:
+      213: 3605342070809906428
+    second: BitsAndPieces_12
+  - first:
+      213: -709782337935835286
+    second: BitsAndPieces_13
+  - first:
+      213: 7905936087685991037
+    second: BitsAndPieces_14
+  - first:
+      213: -5717100434428022837
+    second: BitsAndPieces_15
+  - first:
+      213: -1122286401895648553
+    second: BitsAndPieces_16
+  - first:
+      213: 6790053035361513727
+    second: BitsAndPieces_17
+  - first:
+      213: 6711411452716883358
+    second: BitsAndPieces_18
+  - first:
+      213: 1562279910016012066
+    second: BitsAndPieces_19
+  - first:
+      213: 2070553708364826310
+    second: BitsAndPieces_20
+  - first:
+      213: -6283622925453890872
+    second: BitsAndPieces_21
+  - first:
+      213: -5362096749865785997
+    second: BitsAndPieces_22
+  - first:
+      213: 5701081447013702668
+    second: BitsAndPieces_23
+  - first:
+      213: -8883115804992414843
+    second: BitsAndPieces_24
+  - first:
+      213: 305377042694681708
+    second: BitsAndPieces_25
+  - first:
+      213: -5511304157499723553
+    second: BitsAndPieces_26
+  - first:
+      213: 350731774937895689
+    second: BitsAndPieces_27
+  - first:
+      213: -8883924565581244204
+    second: BitsAndPieces_28
+  - first:
+      213: 5298881326699381856
+    second: BitsAndPieces_29
+  - first:
+      213: 1977016753179747646
+    second: BitsAndPieces_30
+  - first:
+      213: 4498524973630646027
+    second: BitsAndPieces_31
+  - first:
+      213: 5357195491195492608
+    second: BitsAndPieces_32
+  - first:
+      213: 6436938502840028775
+    second: BitsAndPieces_33
+  - first:
+      213: 5437089070583268940
+    second: BitsAndPieces_34
+  - first:
+      213: 5488617734048314850
+    second: BitsAndPieces_35
+  - first:
+      213: -5084014951144512136
+    second: BitsAndPieces_36
+  - first:
+      213: 7917294536313068317
+    second: BitsAndPieces_37
+  - first:
+      213: -1077243654216836560
+    second: BitsAndPieces_38
+  - first:
+      213: -4203856175826168739
+    second: BitsAndPieces_39
+  - first:
+      213: 92325062536847577
+    second: BitsAndPieces_40
+  - first:
+      213: -9200287166828275814
+    second: BitsAndPieces_41
+  - first:
+      213: -535176194440781642
+    second: BitsAndPieces_42
+  - first:
+      213: -4703055181776828228
+    second: BitsAndPieces_43
+  - first:
+      213: 4458864897460785240
+    second: BitsAndPieces_44
+  - first:
+      213: 4510294159810934500
+    second: BitsAndPieces_45
+  - first:
+      213: -1666953218909724021
+    second: BitsAndPieces_46
+  - first:
+      213: 3912090539142137650
+    second: BitsAndPieces_47
+  - first:
+      213: -6405304796425259417
+    second: BitsAndPieces_48
+  - first:
+      213: 5172934232178148736
+    second: BitsAndPieces_49
+  - first:
+      213: 4350217567709060521
+    second: BitsAndPieces_50
+  - first:
+      213: 4997917218567676486
+    second: BitsAndPieces_51
+  - first:
+      213: 1668528655083623668
+    second: BitsAndPieces_0
+  - first:
+      213: -7248337887614500989
+    second: BitsAndPieces_1
+  - first:
+      213: -7258753773212984366
+    second: BitsAndPieces_2
+  - first:
+      213: -7882929288203667177
+    second: BitsAndPieces_3
+  - first:
+      213: 3151906102997512617
+    second: BitsAndPieces_4
+  - first:
+      213: -7387635879421865116
+    second: BitsAndPieces_5
+  - first:
+      213: 6850681405662705585
+    second: BitsAndPieces_6
+  - first:
+      213: 1046157645478959341
+    second: BitsAndPieces_7
+  - first:
+      213: -4135951302079998599
+    second: BitsAndPieces_8
+  - first:
+      213: 123650486868414201
+    second: BitsAndPieces_9
+  - first:
+      213: -8763821530898470770
+    second: BitsAndPieces_10
+  - first:
+      213: -1080908581552820844
+    second: BitsAndPieces_11
+  - first:
+      213: 7793786755650888522
+    second: BitsAndPieces_12
+  - first:
+      213: -3504501441457299164
+    second: BitsAndPieces_13
+  - first:
+      213: -6041695088323494097
+    second: BitsAndPieces_14
+  - first:
+      213: -286006615312178777
+    second: BitsAndPieces_15
+  - first:
+      213: -9101270623009796940
+    second: BitsAndPieces_16
+  - first:
+      213: -4752655578082703448
+    second: BitsAndPieces_17
+  - first:
+      213: -4114984642448142850
+    second: BitsAndPieces_18
+  - first:
+      213: -3941685982425497606
+    second: BitsAndPieces_19
+  - first:
+      213: 6519330038806848711
+    second: BitsAndPieces_20
+  - first:
+      213: 2681674203929066950
+    second: BitsAndPieces_21
+  - first:
+      213: 8918209859946101379
+    second: BitsAndPieces_22
+  - first:
+      213: -3823061739123118068
+    second: BitsAndPieces_23
+  - first:
+      213: -3258007851282475340
+    second: BitsAndPieces_24
+  - first:
+      213: -3989749714299162441
+    second: BitsAndPieces_25
+  - first:
+      213: 2385949963693809341
+    second: BitsAndPieces_26
+  - first:
+      213: 6353598538854510821
+    second: BitsAndPieces_27
+  - first:
+      213: 6816216137376781485
+    second: BitsAndPieces_28
+  - first:
+      213: 5327906044665228119
+    second: BitsAndPieces_29
+  - first:
+      213: -919662744730757795
+    second: BitsAndPieces_30
+  - first:
+      213: 4454063622963370890
+    second: BitsAndPieces_31
+  - first:
+      213: 1389962633795560429
+    second: BitsAndPieces_32
+  - first:
+      213: -4516330792974160020
+    second: BitsAndPieces_33
+  - first:
+      213: -5358406281790606130
+    second: BitsAndPieces_34
+  - first:
+      213: 5307609632799492422
+    second: BitsAndPieces_35
+  - first:
+      213: -2420512983205528026
+    second: BitsAndPieces_36
+  - first:
+      213: -2634448564554299085
+    second: BitsAndPieces_37
+  - first:
+      213: 2235718671846519715
+    second: BitsAndPieces_38
+  - first:
+      213: 7188881768495182296
+    second: BitsAndPieces_39
+  - first:
+      213: 757963174940217331
+    second: BitsAndPieces_40
+  - first:
+      213: -7333216552478702020
+    second: BitsAndPieces_41
+  - first:
+      213: -379045406048356696
+    second: BitsAndPieces_42
+  - first:
+      213: -4708048193654404489
+    second: BitsAndPieces_43
+  - first:
+      213: -3830012744756426677
+    second: BitsAndPieces_44
+  - first:
+      213: -3386606162449191590
+    second: BitsAndPieces_45
+  - first:
+      213: 3200014074110948153
+    second: BitsAndPieces_46
+  - first:
+      213: -6912291132972394156
+    second: BitsAndPieces_47
+  - first:
+      213: -2588838625224595374
+    second: BitsAndPieces_48
+  - first:
+      213: 260442582033458809
+    second: BitsAndPieces_49
+  - first:
+      213: -5322907490037693121
+    second: BitsAndPieces_50
+  - first:
+      213: 2186665863092546705
+    second: BitsAndPieces_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.53386396, y: 0.52778584}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 229, y: 225, z: 198, w: 196}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BitsAndPieces_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 383
+        width: 125
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d1d7b8fdc72710800000000000000
+      internalID: 1668528655083623668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 392
+        width: 125
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f7bb4381bb86b90800000000000000
+      internalID: -7248337887614500989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 370
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db1d9bd6e9b34b90800000000000000
+      internalID: -7258753773212984366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 329
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719f813f3953a9290800000000000000
+      internalID: -7882929288203667177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 316
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17d82b6e1ddbb20800000000000000
+      internalID: 3151906102997512617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 326
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463112d1f48d97990800000000000000
+      internalID: -7387635879421865116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 310
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b736e52172821f50800000000000000
+      internalID: 6850681405662705585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 328
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de815d5f5d2b48e00800000000000000
+      internalID: 1046157645478959341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 309
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975153734362a96c0800000000000000
+      internalID: -4135951302079998599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 295
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8812767b47b100800000000000000
+      internalID: 123650486868414201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 294
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8860e710c6a06680800000000000000
+      internalID: -8763821530898470770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 302
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d6fd93f57dff0f0800000000000000
+      internalID: -1080908581552820844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 229
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4327b1d2c7192c60800000000000000
+      internalID: 7793786755650888522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 294
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e713b1828d5fc0800000000000000
+      internalID: -3504501441457299164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 293
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f7143d356972ca0800000000000000
+      internalID: -6041695088323494097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 290
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1e7eaaf76e70cf0800000000000000
+      internalID: -286006615312178777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 272
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8dc6c69ac1b180800000000000000
+      internalID: -9101270623009796940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 270
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a70a90beec2b0eb0800000000000000
+      internalID: -4752655578082703448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 262
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdc0b21543a4e6c0800000000000000
+      internalID: -4114984642448142850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 248
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff3461ab715c49c0800000000000000
+      internalID: -3941685982425497606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 248
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4ad902120597a50800000000000000
+      internalID: 6519330038806848711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 230
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd3588fa78373520800000000000000
+      internalID: 2681674203929066950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 235
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a397eed98d3cb70800000000000000
+      internalID: 8918209859946101379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 243
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00fd2d8a91c1fac0800000000000000
+      internalID: -3823061739123118068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 242
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6dfd4fe1b39c2d0800000000000000
+      internalID: -3258007851282475340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 231
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07b7006cf81a8c0800000000000000
+      internalID: -3989749714299162441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 208
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe53d5c9d89c1120800000000000000
+      internalID: 2385949963693809341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 202
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e03dd155348c2850800000000000000
+      internalID: 6353598538854510821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 209
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4d0ac8670189e50800000000000000
+      internalID: 6816216137376781485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 203
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b6de4b15680f940800000000000000
+      internalID: 5327906044665228119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 181
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5599233b93bc33f0800000000000000
+      internalID: -919662744730757795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 203
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b98b5344300dd30800000000000000
+      internalID: 4454063622963370890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 190
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3637ea6a32a4310800000000000000
+      internalID: 1389962633795560429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 175
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fed948215c251c0800000000000000
+      internalID: -4516330792974160020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec436a370ed13a5b0800000000000000
+      internalID: -5358406281790606130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 106
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649847117da68a940800000000000000
+      internalID: 5307609632799492422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 112
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e30d5244c986ed0800000000000000
+      internalID: -2420512983205528026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 71
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33904ba0dfe807bd0800000000000000
+      internalID: -2634448564554299085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 118
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3be15694ed60f10800000000000000
+      internalID: 2235718671846519715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_39
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 59
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ff6f41e904c360800000000000000
+      internalID: 7188881768495182296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_40
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 71
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff8323ed73d48a00800000000000000
+      internalID: 757963174940217331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_41
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 91
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360e78066e2b3a90800000000000000
+      internalID: -7333216552478702020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 102
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a67eb2263c5dbaf0800000000000000
+      internalID: -379045406048356696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a4fc7bc17a9aeb0800000000000000
+      internalID: -4708048193654404489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 54
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48039f63bf09dac0800000000000000
+      internalID: -3830012744756426677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d211563ab5001d0800000000000000
+      internalID: -3386606162449191590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93332a398dbb86c20800000000000000
+      internalID: 3200014074110948153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 53
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459191366db9210a0800000000000000
+      internalID: -6912291132972394156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_48
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 59
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2586da29cf8921cd0800000000000000
+      internalID: -2588838625224595374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_49
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 41
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9766d7206274d9300800000000000000
+      internalID: 260442582033458809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_50
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 33
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35890cf6db3126b0800000000000000
+      internalID: -5322907490037693121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BitsAndPieces_51
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 27
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19caa1c5409985e10800000000000000
+      internalID: 2186665863092546705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
